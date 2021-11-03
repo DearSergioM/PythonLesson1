@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "practica1.py", line 15, in <module>
+    dic = {color: 'red', size: 123, width: 400}
+NameError: name 'color' is not defined

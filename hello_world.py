@@ -49,6 +49,7 @@ if type (flotante) is int:
 arrgelo_num = [0 ,1 ,2 ,3]
 arreglo_car = ['c','h','a','d']
 
+
 print (arreglo_car[0])
 print ''
 print (arreglo_car[1])
